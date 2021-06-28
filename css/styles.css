@@ -1,0 +1,188 @@
+/* html {zoom: 110%;} */
+body{
+    
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+    padding:0;
+}
+section{
+    margin:0;
+    padding:0;
+}
+.navbar-brand{
+    margin-left: 1rem;
+}
+.nav-item{
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+#title{
+    background-color: #FF4C68;
+    margin: 0;
+    padding:0;
+}
+#upper0{
+    /* margin-right:0; */
+    margin-left: 0;
+    padding-top: 2.5rem;
+}
+#meet {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    line-height: 1.3;
+    margin-top: 50px;
+    padding-left: 10rem;
+    color: white;
+    
+}
+.container-fluid{
+    
+    padding: 4% 15%;
+    
+}
+.btn{
+    margin-right: 1.5rem;
+    margin-top: 1rem;
+}
+.btn-upper{
+    /* margin-right: 1rem;
+    margin-top: 2rem; */
+    padding-left: 10rem;
+    padding-top: 2rem;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.title-img{
+    transform: rotate(25deg);
+    margin-top: 2.5rem;
+    padding-left: 5rem;
+}
+#tin{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: bold;
+    color: #fff;
+    padding-left: 10rem;
+    font-size: 3rem;
+}
+#features{
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+    background-color: #fff;
+}
+#feat{
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 0;
+    margin-top: 4rem;
+}
+
+#check{
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #ef8172; 
+}
+#bull{
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #ef8172; 
+}
+#heart{
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #ef8172; 
+}
+.para{
+    color: #8f8f8f;
+}
+#check:hover{
+    color: #ff4c68;
+}
+#bull:hover{
+    color: #ff4c68;
+}
+#heart:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    text-align:center;
+    background-color: #ef8172;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+}
+.testo{
+    margin-bottom: 0;
+    padding: 3% 15% 1%;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.pebbles{
+    color: #fff;
+}
+.doggo{
+    border-radius: 100%;
+    margin: 2rem auto;
+    width: 15%;
+}
+.pp{
+    margin-bottom: 1rem;
+}
+.price{
+    text-align: center;
+}
+.sing{
+    margin: 0.5rem;
+}
+#pricing{
+    margin-right: 0;
+    padding: 3% 3%;
+}
+#plan{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    padding: 0.5%;
+}
+#pogo{
+    text-align: center;
+    color: #8f8f8f;
+    font-size: 1.2rem;
+}
+#cta{
+    background-color: #FF4C68;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+}
+#find{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    margin-top: 50px;
+    color: #fff;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.sec-btn{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+#footer{
+    text-align: center;
+    padding: 3% 10%;
+}
+.cico{
+    margin: 40px;
+    padding-bottom: 1rem;
+}
+
+
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+}
