@@ -1,2 +1,2 @@
-#TinDog
+# TinDog
 A tinder for dogs!
