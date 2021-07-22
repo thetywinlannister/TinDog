@@ -1,2 +1,2 @@
 # TinDog
-A tinder for dogs!
+A tinder wesite for dogs!
